@@ -1,0 +1,725 @@
+chain_number,Squad,from,to,Type,chains.start,chains.end,Dist_to_Goal
+507,GWS GIANTS,Lachie Ash,Lachie Whitfield,Handball Effective,Kick-in,Turnover,150.6
+507,GWS GIANTS,Lachie Whitfield,Xavier O'Halloran,Kick Effective Long,Kick-in,Turnover,148.6
+509,GWS GIANTS,Lachie Ash,Lachie Whitfield,Handball Effective,Intercept,Turnover,132.2
+509,GWS GIANTS,Lachie Whitfield,Toby Greene,Kick Ineffective,Intercept,Turnover,126.3
+509,GWS GIANTS,Toby Greene,Jake Riccardi,Handball Effective,Intercept,Turnover,91.6
+509,GWS GIANTS,Jake Riccardi,Xavier O'Halloran,Handball Effective,Intercept,Turnover,85.6
+509,GWS GIANTS,Xavier O'Halloran,Josh Kelly,Handball Effective,Intercept,Turnover,100
+511,GWS GIANTS,Toby Bedford,Tom Green,Handball Effective,Intercept,Turnover,64.5
+511,GWS GIANTS,Tom Green,Xavier O'Halloran,Handball Effective,Intercept,Turnover,64.6
+513,GWS GIANTS,Sam Taylor,Lachie Ash,Out on Full Kick In,Intercept,Turnover,155.1
+513,GWS GIANTS,Lachie Ash,Harry Himmelberg,Kick Effective Short,Intercept,Turnover,148
+515,GWS GIANTS,Tom Green,Stephen Coniglio,Handball Effective,Stoppage,Turnover,83.1
+522,GWS GIANTS,Lachie Ash,Jesse Hogan,Kick Effective Long,Kick-in,Score,151
+522,GWS GIANTS,Jesse Hogan,Callum M. Brown,Kick Effective Long,Kick-in,Score,112.6
+529,GWS GIANTS,Callan Ward,Stephen Coniglio,Handball Effective,Stoppage,Turnover,148.1
+531,GWS GIANTS,Harry Himmelberg,Connor Idun,Kick Effective Short,Kick-in,Score,151.6
+531,GWS GIANTS,Connor Idun,Harry Himmelberg,Handball Effective,Kick-in,Score,147
+531,GWS GIANTS,Harry Himmelberg,Josh Kelly,Kick Effective Short,Kick-in,Score,130.8
+531,GWS GIANTS,Josh Kelly,Toby Greene,Kick Effective Long,Kick-in,Score,109.3
+531,GWS GIANTS,Toby Greene,Callum M. Brown,Kick Effective Short,Kick-in,Score,65.9
+534,GWS GIANTS,Toby Greene,Josh Kelly,Handball Effective,Stoppage,Pre-Clearance Turnover,88.8
+534,GWS GIANTS,Josh Kelly,Lachie Whitfield,Handball Effective,Stoppage,Pre-Clearance Turnover,86.8
+536,GWS GIANTS,Sam Taylor,Lachie Whitfield,Handball Effective,Intercept,Turnover,151
+536,GWS GIANTS,Lachie Whitfield,Josh Kelly,Handball Effective,Intercept,Turnover,147.6
+539,GWS GIANTS,Aaron Cadman,Josh Kelly,Handball Effective,Stoppage,Turnover,86.3
+539,GWS GIANTS,Josh Kelly,Callan Ward,Handball Effective,Stoppage,Turnover,91.8
+539,GWS GIANTS,Callan Ward,Stephen Coniglio,Kick Effective Short,Stoppage,Turnover,95.7
+541,GWS GIANTS,Callan Ward,Aaron Cadman,Handball Effective,Intercept,Turnover,66.2
+543,GWS GIANTS,Connor Idun,Jack Buckley,Handball Effective,Intercept,Turnover,140.7
+543,GWS GIANTS,Jack Buckley,Sam Taylor,Handball Effective,Intercept,Turnover,145.7
+543,GWS GIANTS,Sam Taylor,Jacob Wehr,Handball Effective,Intercept,Turnover,144.8
+547,GWS GIANTS,Connor Idun,Nick Haynes,Kick Effective Short,Intercept,Score,149.5
+547,GWS GIANTS,Nick Haynes,Stephen Coniglio,Kick Effective Short,Intercept,Score,148.1
+547,GWS GIANTS,Stephen Coniglio,Harry Himmelberg,Handball Effective,Intercept,Score,126.8
+547,GWS GIANTS,Harry Himmelberg,Callan Ward,Handball Effective,Intercept,Score,107.7
+547,GWS GIANTS,Callan Ward,Stephen Coniglio,Handball Effective,Intercept,Score,96.7
+547,GWS GIANTS,Stephen Coniglio,Josh Kelly,Handball Effective,Intercept,Score,95.3
+547,GWS GIANTS,Josh Kelly,Kieren Briggs,Handball Effective,Intercept,Score,69.9
+547,GWS GIANTS,Kieren Briggs,Stephen Coniglio,Handball Effective,Intercept,Score,66.3
+547,GWS GIANTS,Stephen Coniglio,Harvey Thomas,Handball Effective,Intercept,Score,63.5
+547,GWS GIANTS,Harvey Thomas,Harvey Thomas,Kick Ineffective,Intercept,Score,46.4
+547,GWS GIANTS,Harvey Thomas,Callum M. Brown,Kick Effective Short,Intercept,Score,43.9
+548,GWS GIANTS,Callan Ward,Tom Green,Handball Effective,Stoppage,Score,91.8
+548,GWS GIANTS,Tom Green,Xavier O'Halloran,Handball Effective,Stoppage,Score,92.7
+548,GWS GIANTS,Xavier O'Halloran,Brent Daniels,Kick Effective Short,Stoppage,Score,81.6
+548,GWS GIANTS,Brent Daniels,Kieren Briggs,Kick Effective Long,Stoppage,Score,51.1
+548,GWS GIANTS,Xavier O'Halloran,Toby Bedford,Handball Effective,Stoppage,Turnover,38.8
+550,GWS GIANTS,Tom Green,Aaron Cadman,Kick Ineffective,Intercept,Score,70
+552,GWS GIANTS,Kieren Briggs,Tom Green,Handball Effective,Intercept,Score,75.3
+552,GWS GIANTS,Tom Green,Callan Ward,Handball Effective,Intercept,Score,75.4
+552,GWS GIANTS,Callan Ward,Tom Green,Handball Effective,Intercept,Score,80.4
+552,GWS GIANTS,Tom Green,Jacob Wehr,Kick Effective Short,Intercept,Score,86.3
+552,GWS GIANTS,Jacob Wehr,Aaron Cadman,Kick Effective Long,Intercept,Score,53.1
+558,GWS GIANTS,Stephen Coniglio,Josh Kelly,Handball Effective,Intercept,Score,71.3
+558,GWS GIANTS,Josh Kelly,Lachie Ash,Handball Effective,Intercept,Score,62.5
+558,GWS GIANTS,Lachie Ash,Brent Daniels,Kick Effective Short,Intercept,Score,55.3
+560,GWS GIANTS,Lachie Whitfield,Nick Haynes,Kick Effective Short,Kick-in,Turnover,157.3
+562,GWS GIANTS,Stephen Coniglio,Josh Kelly,Handball Ineffective,Stoppage,Turnover,149.4
+562,GWS GIANTS,Josh Kelly,Josh Kelly,Kick Ineffective,Stoppage,Turnover,140.9
+568,GWS GIANTS,Callan Ward,Nick Haynes,Handball Effective,Stoppage,Stoppage,142.8
+568,GWS GIANTS,Nick Haynes,Connor Idun,Handball Effective,Stoppage,Stoppage,148.3
+568,GWS GIANTS,Connor Idun,Aaron Cadman,Kick Effective Long,Stoppage,Stoppage,151.3
+569,GWS GIANTS,Brent Daniels,Toby Greene,Handball Effective,Stoppage,Pre-Clearance Turnover,102.6
+571,GWS GIANTS,Harry Himmelberg,Tom Green,Handball Effective,Intercept,Turnover,123.6
+571,GWS GIANTS,Tom Green,Josh Kelly,Handball Effective,Intercept,Turnover,121.3
+573,GWS GIANTS,Harry Himmelberg,Lachie Whitfield,Kick Effective Short,Kick-in,Turnover,141.9
+573,GWS GIANTS,Lachie Whitfield,Jesse Hogan,Kick Effective Long,Kick-in,Turnover,152.3
+573,GWS GIANTS,Jesse Hogan,Tom Green,Kick Effective Short,Kick-in,Turnover,124
+573,GWS GIANTS,Tom Green,Stephen Coniglio,Kick Effective Short,Kick-in,Turnover,117.8
+573,GWS GIANTS,Stephen Coniglio,Jesse Hogan,Kick Effective Short,Kick-in,Turnover,112.8
+575,GWS GIANTS,Stephen Coniglio,Nick Haynes,Handball Effective,Intercept,Turnover,80.1
+577,GWS GIANTS,Lachie Whitfield,Jesse Hogan,Kick Effective Long,Kick-in,Score,146.4
+577,GWS GIANTS,Jesse Hogan,Harvey Thomas,Kick Effective Long,Kick-in,Score,118.8
+577,GWS GIANTS,Harvey Thomas,Brent Daniels,Handball Effective,Kick-in,Score,58.5
+579,GWS GIANTS,Sam Taylor,Lachie Whitfield,Kick Backwards,Intercept,Stoppage,84.2
+579,GWS GIANTS,Lachie Whitfield,Tom Green,Kick Effective Short,Intercept,Stoppage,89
+579,GWS GIANTS,Tom Green,Callum M. Brown,Kick Effective Long,Intercept,Stoppage,77.6
+582,GWS GIANTS,Lachie Whitfield,Jake Riccardi,Handball Effective,Intercept,Turnover,124.8
+582,GWS GIANTS,Jake Riccardi,Stephen Coniglio,Handball Effective,Intercept,Turnover,134.3
+585,GWS GIANTS,Jacob Wehr,Nick Haynes,Handball Effective,Intercept,Score,139.3
+585,GWS GIANTS,Nick Haynes,Sam Taylor,Handball Effective,Intercept,Score,135.5
+585,GWS GIANTS,Sam Taylor,Josh Kelly,Handball Effective,Intercept,Score,125.8
+585,GWS GIANTS,Toby Greene,Tom Green,Kick Effective Short,Intercept,Score,70.2
+586,GWS GIANTS,Stephen Coniglio,Jesse Hogan,Kick Effective Long,Stoppage,Score,94.7
+590,GWS GIANTS,Stephen Coniglio,Sam Taylor,Handball Effective,Intercept,Turnover,128.2
+590,GWS GIANTS,Sam Taylor,Tom Green,Handball Effective,Intercept,Turnover,134.3
+590,GWS GIANTS,Tom Green,Jacob Wehr,Handball Effective,Intercept,Turnover,128.8
+594,GWS GIANTS,Jacob Wehr,Josh Kelly,Handball Effective,Stoppage,Turnover,70
+600,GWS GIANTS,Josh Kelly,Xavier O'Halloran,Handball Effective,Intercept,Turnover,127.9
+602,GWS GIANTS,Lachie Whitfield,Connor Idun,Handball Effective,Intercept,Turnover,161.8
+602,GWS GIANTS,Connor Idun,Harry Himmelberg,Handball Effective,Intercept,Turnover,156.6
+602,GWS GIANTS,Harry Himmelberg,Tom Green,Handball Effective,Intercept,Turnover,149.8
+602,GWS GIANTS,Tom Green,Brent Daniels,Handball Effective,Intercept,Turnover,142.7
+605,GWS GIANTS,Lachie Ash,Tom Green,Handball Effective,Stoppage,Pre-Clearance Turnover,131.9
+605,GWS GIANTS,Tom Green,Tom Green,Handball Ineffective,Stoppage,Pre-Clearance Turnover,131.3
+605,GWS GIANTS,Tom Green,Jack Buckley,Handball Effective,Stoppage,Pre-Clearance Turnover,132.4
+608,GWS GIANTS,Harry Himmelberg,Tom Green,Handball Effective,Stoppage,Turnover,139
+612,GWS GIANTS,Sam Taylor,Lachie Whitfield,Handball Effective,Intercept,Turnover,147.8
+612,GWS GIANTS,Lachie Whitfield,Stephen Coniglio,Handball Effective,Intercept,Turnover,135.6
+616,GWS GIANTS,Lachie Whitfield,Lachie Ash,Kick Effective Short,Kick-in,Turnover,151.3
+616,GWS GIANTS,Lachie Ash,Lachie Whitfield,Kick Effective Short,Kick-in,Turnover,144.4
+618,GWS GIANTS,Kieren Briggs,Brent Daniels,Handball Effective,Stoppage,Turnover,107
+620,GWS GIANTS,Stephen Coniglio,Tom Green,Handball Effective,Stoppage,Turnover,78.7
+620,GWS GIANTS,Tom Green,Brent Daniels,Kick Ineffective,Stoppage,Turnover,86.3
+622,GWS GIANTS,Stephen Coniglio,Toby Bedford,Handball Effective,Intercept,Stoppage,61.2
+626,GWS GIANTS,Nick Haynes,Lachie Ash,Handball Effective,Intercept,Score,116
+626,GWS GIANTS,Lachie Ash,Toby Bedford,Kick Effective Short,Intercept,Score,118.3
+626,GWS GIANTS,Toby Bedford,Brent Daniels,Kick Effective Long,Intercept,Score,107.4
+627,GWS GIANTS,Kieren Briggs,Lachie Whitfield,Handball Effective,Intercept,Score,45.8
+627,GWS GIANTS,Lachie Whitfield,Aaron Cadman,Knock On,Intercept,Score,57.5
+627,GWS GIANTS,Aaron Cadman,Lachie Ash,Handball Effective,Intercept,Score,66.8
+627,GWS GIANTS,Lachie Ash,Nick Haynes,Handball Effective,Intercept,Score,74.4
+627,GWS GIANTS,Jesse Hogan,Josh Kelly,Handball Effective,Intercept,Score,24.5
+627,GWS GIANTS,Josh Kelly,Callum M. Brown,Kick Effective Short,Intercept,Score,28.3
+628,GWS GIANTS,Harvey Thomas,Brent Daniels,Handball Effective,Stoppage,Score,24.6
+630,GWS GIANTS,Stephen Coniglio,Toby Bedford,Kick Effective Short,Stoppage,Turnover,83.1
+630,GWS GIANTS,Toby Bedford,Xavier O'Halloran,Handball Effective,Stoppage,Turnover,79.8
+636,GWS GIANTS,Sam Taylor,Harry Himmelberg,Handball Effective,Intercept,Stoppage,141.6
+636,GWS GIANTS,Harry Himmelberg,Lachie Ash,Handball Effective,Intercept,Stoppage,156.2
+636,GWS GIANTS,Lachie Ash,Harry Himmelberg,Handball Effective,Intercept,Stoppage,159.8
+638,GWS GIANTS,Stephen Coniglio,Jacob Wehr,Kick Effective Short,Stoppage,Turnover,99.9
+638,GWS GIANTS,Jacob Wehr,Brent Daniels,Kick Effective Short,Stoppage,Turnover,81
+640,GWS GIANTS,Stephen Coniglio,Callum M. Brown,Handball Effective,Intercept,Turnover,120.9
+640,GWS GIANTS,Callum M. Brown,Brent Daniels,Handball Effective,Intercept,Turnover,109.4
+640,GWS GIANTS,Brent Daniels,Lachie Ash,Handball Effective,Intercept,Turnover,100.4
+640,GWS GIANTS,Lachie Ash,Lachie Ash,Handball Ineffective,Intercept,Turnover,99.9
+642,GWS GIANTS,Stephen Coniglio,Josh Kelly,Handball Effective,Intercept,Stoppage,120
+645,GWS GIANTS,Callum M. Brown,Toby McMullin,Kick Effective Short,Stoppage,Turnover,118.9
+649,GWS GIANTS,Sam Taylor,Lachie Ash,Out on Full Kick In,Intercept,Turnover,160.9
+649,GWS GIANTS,Lachie Ash,Stephen Coniglio,Kick Effective Short,Intercept,Turnover,155.3
+649,GWS GIANTS,Stephen Coniglio,Lachie Ash,Handball Effective,Intercept,Turnover,132.5
+649,GWS GIANTS,Lachie Ash,Brent Daniels,Handball Effective,Intercept,Turnover,126.8
+651,GWS GIANTS,Jack Buckley,Lachie Whitfield,Kick Effective Short,Intercept,Turnover,128.1
+655,GWS GIANTS,Connor Idun,Lachie Ash,Handball Effective,Kick-in,Stoppage,155.3
+655,GWS GIANTS,Lachie Ash,Nick Haynes,Handball Effective,Kick-in,Stoppage,152.4
+655,GWS GIANTS,Nick Haynes,Toby McMullin,Kick Effective Long,Kick-in,Stoppage,149.4
+658,GWS GIANTS,Jacob Wehr,Stephen Coniglio,Handball Effective,Stoppage,Score,63.8
+658,GWS GIANTS,Stephen Coniglio,Jesse Hogan,Kick Effective Short,Stoppage,Score,72.2
+660,GWS GIANTS,Connor Idun,Jack Buckley,Kick Backwards,Intercept,Turnover,148.9
+660,GWS GIANTS,Jack Buckley,Xavier O'Halloran,Kick Effective Short,Intercept,Turnover,138.2
+667,GWS GIANTS,Toby Bedford,Jacob Wehr,Handball Effective,Stoppage,Score,100.4
+667,GWS GIANTS,Jacob Wehr,Stephen Coniglio,Handball Effective,Stoppage,Score,105.1
+667,GWS GIANTS,Stephen Coniglio,Toby Greene,Kick Effective Short,Stoppage,Score,91.8
+667,GWS GIANTS,Toby Greene,Kieren Briggs,Kick Effective Short,Stoppage,Score,31.8
+667,GWS GIANTS,Kieren Briggs,Josh Kelly,Handball Effective,Stoppage,Turnover,76.1
+667,GWS GIANTS,Josh Kelly,Toby McMullin,Kick Ineffective,Stoppage,Turnover,78.6
+667,GWS GIANTS,Toby McMullin,Toby Bedford,Handball Ineffective,Stoppage,Turnover,75.1
+667,GWS GIANTS,Toby Bedford,Toby McMullin,Handball Effective,Stoppage,Turnover,77.8
+669,GWS GIANTS,Connor Idun,Kieren Briggs,Handball Ineffective,Intercept,Turnover,133.1
+671,GWS GIANTS,Nick Haynes,Lachie Whitfield,Handball Effective,Intercept,Turnover,150.6
+671,GWS GIANTS,Lachie Whitfield,Toby McMullin,Kick Effective Short,Intercept,Turnover,153
+671,GWS GIANTS,Toby McMullin,Callum M. Brown,Kick Effective Long,Intercept,Turnover,139.3
+671,GWS GIANTS,Callum M. Brown,Jesse Hogan,Kick Effective Long,Intercept,Turnover,99.9
+673,GWS GIANTS,Toby Bedford,Brent Daniels,Kick Effective Short,Intercept,Turnover,84.5
+675,GWS GIANTS,Harry Himmelberg,Nick Haynes,Kick Effective Short,Intercept,Stoppage,91.3
+677,GWS GIANTS,Harry Himmelberg,Jesse Hogan,Kick Effective Long,Intercept,Score,59.5
+677,GWS GIANTS,Josh Kelly,Jesse Hogan,Kick Ineffective,Intercept,Score,28.2
+677,GWS GIANTS,Jesse Hogan,Aaron Cadman,Handball Effective,Intercept,Score,21.7
+679,GWS GIANTS,Lachie Whitfield,Xavier O'Halloran,Handball Ineffective,Stoppage,Pre-Clearance Turnover,89.9
+683,GWS GIANTS,Lachie Ash,Lachie Whitfield,Kick Effective Short,Kick-in,Stoppage,157.9
+686,GWS GIANTS,Sam Taylor,Connor Idun,Kick Backwards,Intercept,Stoppage,155.3
+686,GWS GIANTS,Connor Idun,Lachie Whitfield,Kick Effective Short,Intercept,Stoppage,159.7
+686,GWS GIANTS,Lachie Whitfield,Lachie Ash,Kick Effective Short,Intercept,Stoppage,155.9
+686,GWS GIANTS,Lachie Ash,Tom Green,Kick Effective Short,Intercept,Stoppage,148
+686,GWS GIANTS,Tom Green,Lachie Ash,Kick Effective Short,Intercept,Stoppage,130.4
+686,GWS GIANTS,Lachie Ash,Lachie Whitfield,Kick Effective Short,Intercept,Stoppage,128.2
+686,GWS GIANTS,Lachie Whitfield,Lachie Ash,Handball Effective,Intercept,Stoppage,116.4
+686,GWS GIANTS,Lachie Ash,Toby Greene,Kick Effective Long,Intercept,Stoppage,107.2
+688,GWS GIANTS,Lachie Ash,Lachie Whitfield,Handball Effective,Intercept,Stoppage,86.7
+688,GWS GIANTS,Lachie Whitfield,Toby McMullin,Handball Effective,Intercept,Stoppage,81.7
+688,GWS GIANTS,Toby McMullin,Tom Green,Handball Effective,Intercept,Stoppage,79
+690,GWS GIANTS,Jack Buckley,Aaron Cadman,Kick Effective Short,Intercept,Stoppage,113.1
+690,GWS GIANTS,Aaron Cadman,Josh Kelly,Kick Effective Short,Intercept,Stoppage,91.9
+690,GWS GIANTS,Josh Kelly,Lachie Whitfield,Kick Effective Short,Intercept,Stoppage,83.6
+690,GWS GIANTS,Lachie Whitfield,Nick Haynes,Kick Effective Short,Intercept,Stoppage,70.3
+690,GWS GIANTS,Nick Haynes,Jacob Wehr,Kick Effective Short,Intercept,Stoppage,71.3
+690,GWS GIANTS,Jacob Wehr,Connor Idun,Handball Effective,Intercept,Stoppage,63.2
+692,GWS GIANTS,Sam Taylor,Nick Haynes,Kick Backwards,Intercept,Score,110.6
+692,GWS GIANTS,Nick Haynes,Jack Buckley,Kick Effective Short,Intercept,Score,127.3
+692,GWS GIANTS,Jack Buckley,Lachie Ash,Kick Effective Short,Intercept,Score,113.7
+692,GWS GIANTS,Lachie Whitfield,Sam Taylor,Handball Effective,Intercept,Score,88.6
+692,GWS GIANTS,Sam Taylor,Nick Haynes,Knock On,Intercept,Score,98.3
+692,GWS GIANTS,Nick Haynes,Harry Himmelberg,Kick Effective Short,Intercept,Score,96.8
+692,GWS GIANTS,Harry Himmelberg,Callum M. Brown,Kick Effective Short,Intercept,Score,87.3
+692,GWS GIANTS,Callum M. Brown,Xavier O'Halloran,Kick Effective Short,Intercept,Score,82
+692,GWS GIANTS,Xavier O'Halloran,Josh Kelly,Kick Effective Short,Intercept,Score,72.8
+694,GWS GIANTS,Lachie Whitfield,Harvey Thomas,Kick Effective Short,Stoppage,Turnover,93.6
+694,GWS GIANTS,Harvey Thomas,Nick Haynes,Handball Effective,Stoppage,Turnover,95.5
+696,GWS GIANTS,Harry Himmelberg,Harvey Thomas,Handball Effective,Stoppage,Turnover,140.7
+696,GWS GIANTS,Harvey Thomas,Lachie Whitfield,Handball Effective,Stoppage,Turnover,130.2
+698,GWS GIANTS,Lachie Whitfield,Jake Riccardi,Kick Effective Long,Intercept,Turnover,111.1
+700,GWS GIANTS,Toby Bedford,Josh Kelly,Handball Effective,Intercept,Turnover,56.6
+702,GWS GIANTS,Tom Green,Stephen Coniglio,Handball Effective,Stoppage,Stoppage,89.6
+702,GWS GIANTS,Stephen Coniglio,Harry Himmelberg,Handball Ineffective,Stoppage,Stoppage,89.1
+702,GWS GIANTS,Harry Himmelberg,Josh Kelly,Handball Effective,Stoppage,Stoppage,84.6
+704,GWS GIANTS,Toby Bedford,Kieren Briggs,Kick Ineffective,Intercept,Stoppage,70.1
+704,GWS GIANTS,Aaron Cadman,Brent Daniels,Handball Effective,Intercept,Stoppage,38
+704,GWS GIANTS,Brent Daniels,Callum M. Brown,Kick Effective Short,Intercept,Stoppage,35.5
+709,GWS GIANTS,Josh Kelly,Tom Green,Handball Effective,Stoppage,Pre-Clearance Turnover,42.6
+709,GWS GIANTS,Tom Green,Toby Greene,Handball Effective,Stoppage,Pre-Clearance Turnover,46.8
+711,GWS GIANTS,Tom Green,Toby Greene,Kick Effective Short,Stoppage,Score,85.2
+711,GWS GIANTS,Toby Greene,Jesse Hogan,Kick Effective Short,Stoppage,Score,72.3
+712,GWS GIANTS,Josh Kelly,Stephen Coniglio,Handball Effective,Stoppage,Stoppage,76.3
+712,GWS GIANTS,Stephen Coniglio,Connor Idun,Kick Effective Short,Stoppage,Stoppage,81
+712,GWS GIANTS,Connor Idun,Nick Haynes,Kick Effective Short,Stoppage,Stoppage,77.4
+714,GWS GIANTS,Connor Idun,Jack Buckley,Handball Effective,Intercept,Stoppage,114.1
+714,GWS GIANTS,Jack Buckley,Harvey Thomas,Handball Effective,Intercept,Stoppage,120.4
+714,GWS GIANTS,Harvey Thomas,Josh Kelly,Handball Effective,Intercept,Stoppage,120.2
+714,GWS GIANTS,Josh Kelly,Toby McMullin,Kick Ineffective,Intercept,Stoppage,110.4
+716,GWS GIANTS,Jake Riccardi,Tom Green,Handball Effective,Intercept,Score,62.8
+716,GWS GIANTS,Tom Green,Stephen Coniglio,Handball Effective,Intercept,Score,55.3
+716,GWS GIANTS,Stephen Coniglio,Callum M. Brown,Kick Effective Short,Intercept,Score,52.4
+723,GWS GIANTS,Aaron Cadman,Toby Greene,Handball Effective,Intercept,Score,32.3
+723,GWS GIANTS,Toby Greene,Harvey Thomas,Kick Effective Short,Intercept,Score,25.5
+723,GWS GIANTS,Harvey Thomas,Brent Daniels,Handball Effective,Intercept,Score,20
+725,GWS GIANTS,Lachie Whitfield,Josh Kelly,Kick Effective Long,Kick-in,Turnover,149.7
+727,GWS GIANTS,Lachie Whitfield,Harry Himmelberg,Kick Effective Short,Kick-in,Turnover,151.8
+727,GWS GIANTS,Harry Himmelberg,Lachie Whitfield,Kick Effective Short,Kick-in,Turnover,153.9
+733,GWS GIANTS,Stephen Coniglio,Harry Himmelberg,Handball Effective,Intercept,Turnover,97.9
+735,GWS GIANTS,Nick Haynes,Stephen Coniglio,Handball Effective,Intercept,Stoppage,110.3
+735,GWS GIANTS,Stephen Coniglio,Toby McMullin,Handball Effective,Intercept,Stoppage,111.4
+736,GWS GIANTS,Tom Green,Toby Bedford,Handball Effective,Stoppage,Score,91.3
+736,GWS GIANTS,Toby Bedford,Toby McMullin,Handball Effective,Stoppage,Score,86.5
+736,GWS GIANTS,Toby McMullin,Josh Kelly,Kick Effective Short,Stoppage,Score,94.8
+736,GWS GIANTS,Josh Kelly,Toby Greene,Kick Effective Long,Stoppage,Score,84.2
+736,GWS GIANTS,Toby Greene,Jacob Wehr,Ground Kick,Stoppage,Score,26.7
+738,GWS GIANTS,Nick Haynes,Lachie Whitfield,Kick Backwards,Intercept,Stoppage,83.7
+738,GWS GIANTS,Lachie Whitfield,Nick Haynes,Kick Effective Short,Intercept,Stoppage,96.5
+741,GWS GIANTS,Connor Idun,Sam Taylor,Kick Effective Short,Intercept,Turnover,159.3
+741,GWS GIANTS,Sam Taylor,Connor Idun,Kick Backwards,Intercept,Turnover,149.9
+741,GWS GIANTS,Connor Idun,Nick Haynes,Kick Effective Long,Intercept,Turnover,151.4
+743,GWS GIANTS,Toby Greene,Toby McMullin,Handball Effective,Intercept,Turnover,81.6
+745,GWS GIANTS,Tom Green,Jesse Hogan,Kick Effective Long,Stoppage,Score,84.5
+745,GWS GIANTS,Jesse Hogan,Toby Greene,Kick Ineffective,Stoppage,Score,55.3
+745,GWS GIANTS,Toby Greene,Brent Daniels,Handball Effective,Stoppage,Score,27.1
+746,GWS GIANTS,Stephen Coniglio,Tom Green,Handball Ineffective,Stoppage,Turnover,89
+746,GWS GIANTS,Tom Green,Xavier O'Halloran,Handball Effective,Stoppage,Turnover,85.6
+746,GWS GIANTS,Toby Greene,Jesse Hogan,Kick Effective Long,Stoppage,Turnover,47.5
+750,GWS GIANTS,Josh Kelly,Xavier O'Halloran,Handball Effective,Intercept,Turnover,91.5
+750,GWS GIANTS,Xavier O'Halloran,Brent Daniels,Knock On,Intercept,Turnover,79.3
+750,GWS GIANTS,Brent Daniels,Nick Haynes,Handball Effective,Intercept,Turnover,70.2
+750,GWS GIANTS,Nick Haynes,Stephen Coniglio,Handball Effective,Intercept,Turnover,70.8
+752,GWS GIANTS,Harry Himmelberg,Kieren Briggs,Kick Effective Long,Kick-in,Turnover,151
+752,GWS GIANTS,Kieren Briggs,Callum M. Brown,Handball Effective,Kick-in,Turnover,125.9
+752,GWS GIANTS,Callum M. Brown,Toby Greene,Knock On,Kick-in,Turnover,96.1
+752,GWS GIANTS,Toby Greene,Xavier O'Halloran,Kick Effective Short,Kick-in,Turnover,72.2
+754,GWS GIANTS,Xavier O'Halloran,Brent Daniels,Kick Effective Short,Intercept,Turnover,100.2
+759,GWS GIANTS,Harry Himmelberg,Lachie Whitfield,Kick Effective Short,Intercept,Stoppage,136.4
+759,GWS GIANTS,Lachie Whitfield,Toby McMullin,Kick Backwards,Intercept,Stoppage,110.6
+759,GWS GIANTS,Toby McMullin,Lachie Whitfield,Kick Effective Short,Intercept,Stoppage,126.8
+759,GWS GIANTS,Callum M. Brown,Aaron Cadman,Handball Effective,Intercept,Stoppage,68.7
+760,GWS GIANTS,Xavier O'Halloran,Brent Daniels,Kick Ineffective,Stoppage,Pre-Clearance Turnover,41.2
+768,Sydney Swans,Jake Lloyd,Errol Gulden,Handball Effective,Intercept,Turnover,149.2
+775,Sydney Swans,Nick Blakey,Will Hayward,Kick Effective Long,Kick-in,Turnover,145.8
+775,Sydney Swans,Will Hayward,Robbie Fox,Kick Effective Short,Kick-in,Turnover,133.2
+775,Sydney Swans,Robbie Fox,Dane Rampe,Kick Effective Short,Kick-in,Turnover,117.1
+777,Sydney Swans,Isaac Heeney,Brodie Grundy,Kick Effective Short,Intercept,Turnover,104.1
+777,Sydney Swans,Brodie Grundy,Chad Warner,Handball Effective,Intercept,Turnover,76.4
+779,Sydney Swans,Brodie Grundy,Nick Blakey,Handball Effective,Intercept,Turnover,75.1
+779,Sydney Swans,Nick Blakey,Jake Lloyd,Handball Effective,Intercept,Turnover,67.3
+781,Sydney Swans,Tom Papley,Chad Warner,Handball Effective,Stoppage,Score,62.6
+781,Sydney Swans,Chad Warner,Oliver Florent,Handball Effective,Stoppage,Score,59.9
+790,Sydney Swans,Nick Blakey,Dane Rampe,Kick Effective Short,Kick-in,Stoppage,143.7
+791,Sydney Swans,James Rowbottom,Errol Gulden,Handball Effective,Stoppage,Turnover,121.3
+791,Sydney Swans,Errol Gulden,Joel Amartey,Kick Effective Short,Stoppage,Turnover,117.5
+793,Sydney Swans,Chad Warner,Harry Cunningham,Kick Effective Short,Intercept,Turnover,56.3
+799,Sydney Swans,Matt Roberts,Braeden Campbell,Kick Effective Short,Intercept,Score,95.4
+799,Sydney Swans,Braeden Campbell,Isaac Heeney,Kick Effective Short,Intercept,Score,108.4
+799,Sydney Swans,Isaac Heeney,Tom Papley,Kick Ineffective,Intercept,Score,80.3
+801,Sydney Swans,Braeden Campbell,Chad Warner,Kick Effective Short,Intercept,Turnover,77.7
+806,Sydney Swans,Justin McInerney,Will Hayward,Kick Effective Short,Intercept,Stoppage,56.3
+808,Sydney Swans,Nick Blakey,Isaac Heeney,Kick Effective Short,Intercept,Score,55.6
+810,Sydney Swans,Matt Roberts,Jake Lloyd,Kick Effective Short,Kick-in,Turnover,143.6
+810,Sydney Swans,Jake Lloyd,Dane Rampe,Handball Effective,Kick-in,Turnover,145.7
+810,Sydney Swans,Dane Rampe,Will Hayward,Kick Effective Short,Kick-in,Turnover,129.7
+810,Sydney Swans,Will Hayward,Matt Roberts,Kick Backwards,Kick-in,Turnover,95
+810,Sydney Swans,Matt Roberts,Harry Cunningham,Kick Effective Short,Kick-in,Turnover,94.1
+810,Sydney Swans,Harry Cunningham,Matt Roberts,Handball Effective,Kick-in,Turnover,76.9
+812,Sydney Swans,James Rowbottom,Will Hayward,Handball Effective,Intercept,Stoppage,115
+812,Sydney Swans,Will Hayward,Isaac Heeney,Kick Ineffective,Intercept,Stoppage,119.4
+813,Sydney Swans,Errol Gulden,Harry Cunningham,Kick Effective Short,Stoppage,Turnover,94.5
+813,Sydney Swans,Harry Cunningham,Justin McInerney,Kick Effective Short,Stoppage,Turnover,87.3
+813,Sydney Swans,Justin McInerney,Tom Papley,Kick Effective Short,Stoppage,Turnover,74.5
+813,Sydney Swans,Tom Papley,Braeden Campbell,Kick Effective Short,Stoppage,Turnover,59.1
+815,Sydney Swans,Tom McCartin,Braeden Campbell,Kick Effective Short,Intercept,Turnover,110.3
+815,Sydney Swans,Braeden Campbell,Justin McInerney,Kick Backwards,Intercept,Turnover,95.7
+815,Sydney Swans,Justin McInerney,Errol Gulden,Kick Effective Short,Intercept,Turnover,90.2
+820,Sydney Swans,Matt Roberts,Harry Cunningham,Kick Effective Short,Kick-in,Turnover,144.7
+820,Sydney Swans,Harry Cunningham,Justin McInerney,Kick Effective Short,Kick-in,Turnover,149.4
+820,Sydney Swans,Justin McInerney,Braeden Campbell,Kick Effective Short,Kick-in,Turnover,127.4
+820,Sydney Swans,Braeden Campbell,Tom McCartin,Kick Backwards,Kick-in,Turnover,129.5
+820,Sydney Swans,Tom McCartin,Oliver Florent,Kick Effective Long,Kick-in,Turnover,126.5
+824,Sydney Swans,Isaac Heeney,Tom Papley,Kick Effective Long,Stoppage,Score,124.2
+825,Sydney Swans,Isaac Heeney,Jake Lloyd,Handball Effective,Stoppage,Turnover,88.1
+825,Sydney Swans,Jake Lloyd,Matt Roberts,Handball Effective,Stoppage,Turnover,92.1
+825,Sydney Swans,Matt Roberts,Chad Warner,Handball Effective,Stoppage,Turnover,95.7
+825,Sydney Swans,Chad Warner,Oliver Florent,Handball Effective,Stoppage,Turnover,93.3
+825,Sydney Swans,Oliver Florent,Isaac Heeney,Kick Effective Short,Stoppage,Turnover,101.6
+829,Sydney Swans,Oliver Florent,Hayden McLean,Kick Effective Long,Kick-in,Turnover,137.3
+831,Sydney Swans,Tom McCartin,James Rowbottom,Handball Effective,Intercept,Turnover,125.1
+831,Sydney Swans,James Rowbottom,James Jordon,Kick Effective Short,Intercept,Turnover,116.9
+831,Sydney Swans,James Jordon,Chad Warner,Handball Effective,Intercept,Turnover,102
+832,Sydney Swans,James Rowbottom,Chad Warner,Handball Effective,Intercept,Turnover,89.9
+835,Sydney Swans,Isaac Heeney,Chad Warner,Handball Effective,Stoppage,Turnover,78.4
+837,Sydney Swans,Lewis Melican,Nick Blakey,Kick Effective Short,Intercept,Stoppage,149.9
+837,Sydney Swans,Nick Blakey,Oliver Florent,Kick Effective Short,Intercept,Stoppage,149.8
+837,Sydney Swans,Oliver Florent,Isaac Heeney,Kick Effective Short,Intercept,Stoppage,147.3
+839,Sydney Swans,Tom McCartin,Matt Roberts,Kick Effective Short,Intercept,Turnover,146.3
+841,Sydney Swans,Matt Roberts,Dane Rampe,Out on Full Kick In,Intercept,Turnover,150
+841,Sydney Swans,Dane Rampe,Robbie Fox,Kick Effective Long,Intercept,Turnover,144.2
+848,Sydney Swans,Isaac Heeney,Will Hayward,Kick Effective Short,Stoppage,Turnover,62.8
+850,Sydney Swans,Dane Rampe,Nick Blakey,Handball Effective,Intercept,Turnover,82.4
+850,Sydney Swans,Nick Blakey,James Rowbottom,Handball Effective,Intercept,Turnover,87.8
+850,Sydney Swans,James Rowbottom,Jake Lloyd,Handball Effective,Intercept,Turnover,79.1
+852,Sydney Swans,James Rowbottom,Errol Gulden,Handball Effective,Stoppage,Turnover,140
+854,Sydney Swans,Isaac Heeney,Joel Amartey,Kick Ineffective,Intercept,Turnover,145.2
+856,Sydney Swans,Errol Gulden,Justin McInerney,Kick Effective Short,Intercept,Turnover,126.8
+856,Sydney Swans,Justin McInerney,Chad Warner,Handball Effective,Intercept,Turnover,100.1
+858,Sydney Swans,Tom McCartin,Nick Blakey,Kick Effective Short,Intercept,Score,95.6
+858,Sydney Swans,Tom Papley,Justin McInerney,Kick Ineffective,Intercept,Score,37.7
+860,Sydney Swans,Errol Gulden,James Rowbottom,Handball Effective,Stoppage,Turnover,106.4
+860,Sydney Swans,James Rowbottom,Brodie Grundy,Kick Ineffective,Stoppage,Turnover,114.3
+864,Sydney Swans,Dane Rampe,Errol Gulden,Handball Effective,Intercept,Stoppage,138.4
+864,Sydney Swans,Errol Gulden,Braeden Campbell,Kick Effective Short,Intercept,Stoppage,144
+864,Sydney Swans,Braeden Campbell,Matt Roberts,Kick Effective Short,Intercept,Stoppage,137.9
+864,Sydney Swans,Matt Roberts,Jake Lloyd,Kick Effective Short,Intercept,Stoppage,131.6
+864,Sydney Swans,Jake Lloyd,Harry Cunningham,Kick Effective Short,Intercept,Stoppage,134.7
+864,Sydney Swans,Harry Cunningham,Dane Rampe,Kick Backwards,Intercept,Stoppage,122.5
+864,Sydney Swans,Dane Rampe,Oliver Florent,Kick Effective Long,Intercept,Stoppage,123.7
+864,Sydney Swans,Oliver Florent,Nick Blakey,Handball Effective,Intercept,Stoppage,94.6
+875,Sydney Swans,Tom Papley,Chad Warner,Kick Ineffective,Stoppage,Turnover,131.3
+877,Sydney Swans,Dane Rampe,Braeden Campbell,Handball Effective,Intercept,Stoppage,137.7
+880,Sydney Swans,Isaac Heeney,Robbie Fox,Kick Effective Short,Stoppage,Turnover,120
+880,Sydney Swans,Robbie Fox,Dane Rampe,Handball Effective,Stoppage,Turnover,100
+880,Sydney Swans,Dane Rampe,Tom Papley,Kick Effective Short,Stoppage,Turnover,99.9
+883,Sydney Swans,Tom Papley,Justin McInerney,Handball Effective,Intercept,Stoppage,86.6
+886,Sydney Swans,Oliver Florent,Justin McInerney,Handball Effective,Intercept,Turnover,75.2
+886,Sydney Swans,Justin McInerney,Matt Roberts,Kick Effective Short,Intercept,Turnover,74.4
+889,Sydney Swans,Matt Roberts,Harry Cunningham,Kick Effective Short,Kick-in,Turnover,147.2
+889,Sydney Swans,Harry Cunningham,Braeden Campbell,Handball Effective,Kick-in,Turnover,143.7
+889,Sydney Swans,Braeden Campbell,Dane Rampe,Handball Effective,Kick-in,Turnover,136.7
+893,Sydney Swans,Oliver Florent,James Jordon,Handball Effective,Intercept,Turnover,105.6
+893,Sydney Swans,James Jordon,Braeden Campbell,Handball Effective,Intercept,Turnover,108.6
+893,Sydney Swans,Braeden Campbell,Robbie Fox,Kick Effective Long,Intercept,Turnover,97.2
+896,Sydney Swans,James Jordon,Tom McCartin,Kick Backwards,Intercept,Stoppage,106.4
+896,Sydney Swans,Tom McCartin,Harry Cunningham,Kick Backwards,Intercept,Stoppage,121.4
+896,Sydney Swans,Harry Cunningham,James Jordon,Kick Effective Short,Intercept,Stoppage,129.6
+896,Sydney Swans,James Jordon,Dane Rampe,Kick Effective Short,Intercept,Stoppage,116.2
+898,Sydney Swans,Justin McInerney,Errol Gulden,Handball Effective,Stoppage,Turnover,79.4
+900,Sydney Swans,James Jordon,Isaac Heeney,Handball Effective,Stoppage,Turnover,72.9
+900,Sydney Swans,Isaac Heeney,Justin McInerney,Handball Effective,Stoppage,Turnover,68.3
+900,Sydney Swans,Justin McInerney,Robbie Fox,Handball Ineffective,Stoppage,Turnover,61.2
+900,Sydney Swans,Robbie Fox,Justin McInerney,Handball Effective,Stoppage,Turnover,45.9
+902,Sydney Swans,Dane Rampe,Harry Cunningham,Handball Effective,Intercept,Turnover,107.2
+902,Sydney Swans,Harry Cunningham,Logan McDonald,Kick Effective Long,Intercept,Turnover,118.2
+902,Sydney Swans,Logan McDonald,Braeden Campbell,Handball Effective,Intercept,Turnover,95
+903,Sydney Swans,Brodie Grundy,Tom Papley,Ground Kick,Stoppage,Turnover,120.1
+905,Sydney Swans,Nick Blakey,Jake Lloyd,Kick Backwards,Intercept,Turnover,94.1
+905,Sydney Swans,Jake Lloyd,Tom McCartin,Kick Backwards,Intercept,Turnover,96.3
+905,Sydney Swans,Tom McCartin,James Jordon,Kick Effective Short,Intercept,Turnover,104.1
+905,Sydney Swans,James Jordon,Matt Roberts,Kick Effective Short,Intercept,Turnover,114.8
+905,Sydney Swans,Matt Roberts,Nick Blakey,Kick Effective Short,Intercept,Turnover,112
+905,Sydney Swans,Nick Blakey,Chad Warner,Kick Effective Short,Intercept,Turnover,97.9
+905,Sydney Swans,Chad Warner,Joel Amartey,Kick Effective Long,Intercept,Turnover,95.2
+909,Sydney Swans,Harry Cunningham,Justin McInerney,Handball Effective,Intercept,Turnover,129.6
+912,Sydney Swans,Nick Blakey,Matt Roberts,Kick Effective Long,Intercept,Turnover,131.6
+912,Sydney Swans,Matt Roberts,James Jordon,Handball Effective,Intercept,Turnover,87.1
+918,Sydney Swans,Lewis Melican,Tom McCartin,Handball Effective,Intercept,Stoppage,146.8
+919,Sydney Swans,Brodie Grundy,Robbie Fox,Kick Ineffective,Stoppage,Stoppage,131.7
+920,Sydney Swans,Brodie Grundy,Errol Gulden,Handball Effective,Stoppage,Score,118.5
+920,Sydney Swans,Errol Gulden,Tom Papley,Kick Ineffective,Stoppage,Score,121.6
+920,Sydney Swans,Isaac Heeney,Logan McDonald,Kick Effective Short,Stoppage,Score,94.8
+920,Sydney Swans,Logan McDonald,Robbie Fox,Kick Effective Long,Stoppage,Score,59.1
+922,Sydney Swans,James Rowbottom,Will Hayward,Kick Effective Long,Stoppage,Score,64.9
+922,Sydney Swans,Will Hayward,Tom Papley,Handball Effective,Stoppage,Score,31.8
+924,Sydney Swans,James Rowbottom,Matt Roberts,Handball Effective,Intercept,Stoppage,119.6
+924,Sydney Swans,Matt Roberts,James Jordon,Kick Effective Short,Intercept,Stoppage,129.9
+926,Sydney Swans,Brodie Grundy,Jake Lloyd,Kick Effective Short,Stoppage,Turnover,89.1
+926,Sydney Swans,Jake Lloyd,Harry Cunningham,Kick Effective Short,Stoppage,Turnover,90.7
+929,Sydney Swans,Justin McInerney,Chad Warner,Handball Ineffective,Stoppage,Pre-Clearance Turnover,54.3
+931,Sydney Swans,Logan McDonald,Hayden McLean,Out on Full Kick In,Intercept,Score,40.1
+933,Sydney Swans,Tom Papley,Nick Blakey,Kick Backwards,Intercept,Turnover,82.9
+933,Sydney Swans,Nick Blakey,Tom Papley,Handball Effective,Intercept,Turnover,80.1
+933,Sydney Swans,Tom Papley,Braeden Campbell,Handball Effective,Intercept,Turnover,68.4
+933,Sydney Swans,Braeden Campbell,James Rowbottom,Handball Effective,Intercept,Turnover,55.5
+939,Sydney Swans,Isaac Heeney,Hayden McLean,Kick Effective Short,Stoppage,Score,119.9
+941,Sydney Swans,Jake Lloyd,Joel Amartey,Kick Effective Long,Intercept,Turnover,131.6
+941,Sydney Swans,James Jordon,Brodie Grundy,Handball Effective,Intercept,Turnover,87.5
+941,Sydney Swans,Brodie Grundy,Logan McDonald,Handball Effective,Intercept,Turnover,82
+943,Sydney Swans,Lewis Melican,Brodie Grundy,Out on Full Kick In,Intercept,Turnover,146.2
+943,Sydney Swans,James Jordon,Logan McDonald,Handball Effective,Intercept,Turnover,126.6
+945,Sydney Swans,James Jordon,Chad Warner,Kick Effective Long,Stoppage,Score,78.4
+945,Sydney Swans,Chad Warner,Brodie Grundy,Handball Effective,Stoppage,Score,48.5
+945,Sydney Swans,Brodie Grundy,Joel Amartey,Handball Effective,Stoppage,Score,52.1
+947,Sydney Swans,James Rowbottom,Harry Cunningham,Handball Ineffective,Intercept,Turnover,117.8
+947,Sydney Swans,Harry Cunningham,James Rowbottom,Ground Kick,Intercept,Turnover,113.6
+949,Sydney Swans,Brodie Grundy,Isaac Heeney,Handball Effective,Stoppage,Turnover,85.4
+949,Sydney Swans,Isaac Heeney,Chad Warner,Kick Ineffective,Stoppage,Turnover,69.8
+951,Sydney Swans,Jake Lloyd,James Jordon,Kick Effective Short,Intercept,Stoppage,65.2
+953,Sydney Swans,Isaac Heeney,Hayden McLean,Kick Ineffective,Stoppage,Score,52.5
+954,Sydney Swans,Justin McInerney,Chad Warner,Handball Effective,Stoppage,Score,62.8
+954,Sydney Swans,Chad Warner,Tom Papley,Kick Effective Long,Stoppage,Score,63.7
+954,Sydney Swans,Tom Papley,Isaac Heeney,Handball Effective,Stoppage,Score,32.8
+954,Sydney Swans,Isaac Heeney,Jake Lloyd,Kick Ineffective,Stoppage,Score,25.8
+954,Sydney Swans,Jake Lloyd,James Rowbottom,Handball Effective,Stoppage,Score,26.3
+956,Sydney Swans,Dane Rampe,James Jordon,Handball Effective,Intercept,Stoppage,114
+956,Sydney Swans,James Jordon,Logan McDonald,Kick Effective Short,Intercept,Stoppage,111
+957,Sydney Swans,Errol Gulden,James Jordon,Handball Effective,Stoppage,Stoppage,92.3
+957,Sydney Swans,James Jordon,Chad Warner,Handball Effective,Stoppage,Stoppage,101.5
+957,Sydney Swans,Chad Warner,Oliver Florent,Handball Effective,Stoppage,Stoppage,100.1
+957,Sydney Swans,Oliver Florent,Brodie Grundy,Handball Ineffective,Stoppage,Stoppage,96
+959,Sydney Swans,Harry Cunningham,Errol Gulden,Kick Effective Short,Intercept,Turnover,103.5
+959,Sydney Swans,Errol Gulden,Chad Warner,Kick Effective Long,Intercept,Turnover,113.3
+959,Sydney Swans,Chad Warner,Nick Blakey,Kick Effective Short,Intercept,Turnover,77.8
+961,Sydney Swans,Dane Rampe,Nick Blakey,Handball Ineffective,Intercept,Turnover,131.2
+963,Sydney Swans,Isaac Heeney,Tom Papley,Handball Effective,Stoppage,Score,83
+963,Sydney Swans,Tom Papley,Hayden McLean,Kick Effective Long,Stoppage,Score,76
+965,Sydney Swans,Isaac Heeney,Nick Blakey,Handball Effective,Intercept,Score,86.1
+965,Sydney Swans,Nick Blakey,Will Hayward,Kick Effective Short,Intercept,Score,66.4
+970,Sydney Swans,Sam Wicks,Brodie Grundy,Handball Effective,Intercept,Turnover,106.2
+970,Sydney Swans,Brodie Grundy,Justin McInerney,Handball Effective,Intercept,Turnover,106
+970,Sydney Swans,Justin McInerney,Harry Cunningham,Handball Effective,Intercept,Turnover,119.8
+970,Sydney Swans,Harry Cunningham,Chad Warner,Kick Ineffective,Intercept,Turnover,124.2
+970,Sydney Swans,Chad Warner,Justin McInerney,Kick Effective Short,Intercept,Turnover,101.1
+970,Sydney Swans,Justin McInerney,Errol Gulden,Handball Effective,Intercept,Turnover,65
+974,Sydney Swans,Harry Cunningham,Justin McInerney,Kick Effective Short,Intercept,Turnover,116.9
+974,Sydney Swans,Justin McInerney,Oliver Florent,Handball Effective,Intercept,Turnover,113.5
+974,Sydney Swans,Oliver Florent,Nick Blakey,Handball Effective,Intercept,Turnover,99.4
+974,Sydney Swans,Nick Blakey,Hayden McLean,Handball Effective,Intercept,Turnover,95.6
+974,Sydney Swans,Hayden McLean,James Rowbottom,Knock On,Intercept,Turnover,65
+974,Sydney Swans,James Rowbottom,Tom Papley,Kick Effective Short,Intercept,Turnover,59.2
+974,Sydney Swans,Tom Papley,Will Hayward,Kick Effective Short,Intercept,Turnover,53.3
+980,Sydney Swans,Brodie Grundy,Brodie Grundy,Handball Ineffective,Intercept,Stoppage,86.2
+981,Sydney Swans,Isaac Heeney,James Rowbottom,Handball Effective,Stoppage,Turnover,47.8
+983,Sydney Swans,Brodie Grundy,Chad Warner,Handball Effective,Stoppage,Turnover,86.2
+985,Sydney Swans,Oliver Florent,Errol Gulden,Handball Effective,Intercept,Stoppage,91.4
+985,Sydney Swans,Errol Gulden,Matt Roberts,Handball Effective,Intercept,Stoppage,79.4
+985,Sydney Swans,Matt Roberts,Errol Gulden,Handball Effective,Intercept,Stoppage,96.9
+987,Sydney Swans,Tom Papley,Errol Gulden,Handball Effective,Stoppage,Score,22.7
+991,Sydney Swans,Chad Warner,Tom Papley,Kick Effective Short,Intercept,Score,59.4
+998,Sydney Swans,James Rowbottom,Nick Blakey,Handball Effective,Intercept,Score,94.1
+998,Sydney Swans,Nick Blakey,Chad Warner,Handball Effective,Intercept,Score,97.9
+998,Sydney Swans,Chad Warner,Dane Rampe,Knock On,Intercept,Score,98.7
+998,Sydney Swans,Dane Rampe,James Jordon,Kick Effective Short,Intercept,Score,103.2
+998,Sydney Swans,James Jordon,Chad Warner,Handball Effective,Intercept,Score,88.7
+998,Sydney Swans,Chad Warner,Nick Blakey,Kick Effective Short,Intercept,Score,98.4
+998,Sydney Swans,Nick Blakey,Logan McDonald,Kick Ineffective,Intercept,Score,68.3
+1000,Sydney Swans,Chad Warner,Brodie Grundy,Handball Effective,Stoppage,Stoppage,90.4
+1004,Sydney Swans,Errol Gulden,Chad Warner,Handball Effective,Intercept,Score,71.4
+1004,Sydney Swans,Chad Warner,Sam Wicks,Kick Effective Short,Intercept,Score,66.8
+1009,Sydney Swans,James Jordon,Errol Gulden,Handball Effective,Intercept,Score,88.6
+1009,Sydney Swans,Errol Gulden,Logan McDonald,Kick Ineffective,Intercept,Score,72.2
+1009,Sydney Swans,Logan McDonald,Robbie Fox,Kick Ineffective,Intercept,Score,32
+1011,Sydney Swans,Harry Cunningham,Errol Gulden,Handball Ineffective,Intercept,Turnover,130
+1016,Sydney Swans,Isaac Heeney,Braeden Campbell,Handball Effective,Stoppage,Turnover,111
+1016,Sydney Swans,Braeden Campbell,Tom Papley,Handball Effective,Stoppage,Turnover,118.1
+1021,Sydney Swans,Jake Lloyd,Robbie Fox,Handball Effective,Intercept,Stoppage,25.2
+1021,Sydney Swans,Robbie Fox,Hayden McLean,Kick Ineffective,Intercept,Stoppage,21.1
+1026,Sydney Swans,Justin McInerney,Logan McDonald,Handball Effective,Intercept,Score,101.1
+1026,Sydney Swans,Logan McDonald,Sam Wicks,Kick Effective Long,Intercept,Score,91.9
+1026,Sydney Swans,Sam Wicks,Isaac Heeney,Handball Effective,Intercept,Score,32.4
+1028,Sydney Swans,Isaac Heeney,Braeden Campbell,Handball Effective,Intercept,Turnover,66.6
+1034,Sydney Swans,Chad Warner,Justin McInerney,Handball Effective,Stoppage,Pre-Clearance Turnover,135.2
+1034,Sydney Swans,Justin McInerney,Chad Warner,Handball Effective,Stoppage,Pre-Clearance Turnover,140.4
+1036,Sydney Swans,Lewis Melican,Dane Rampe,Kick Effective Short,Intercept,Score,151.8
+1036,Sydney Swans,Dane Rampe,Sam Wicks,Kick Effective Long,Intercept,Score,147.3
+1036,Sydney Swans,Sam Wicks,Braeden Campbell,Kick Effective Short,Intercept,Score,128.7
+1036,Sydney Swans,Braeden Campbell,Isaac Heeney,Kick Effective Long,Intercept,Score,109
+1036,Sydney Swans,Isaac Heeney,Logan McDonald,Kick Effective Long,Intercept,Score,63.4
+1038,Sydney Swans,Errol Gulden,Jake Lloyd,Kick Ineffective,Stoppage,Pre-Clearance Turnover,69.7
+1041,Sydney Swans,Oliver Florent,Errol Gulden,Handball Effective,Stoppage,Turnover,141.4
+1043,Sydney Swans,Matt Roberts,Harry Cunningham,Kick Effective Short,Kick-in,Turnover,148.3
+1043,Sydney Swans,Harry Cunningham,Oliver Florent,Kick Effective Short,Kick-in,Turnover,147.2
+1043,Sydney Swans,Oliver Florent,Matt Roberts,Kick Effective Short,Kick-in,Turnover,141.9
+1043,Sydney Swans,Matt Roberts,Nick Blakey,Kick Backwards,Kick-in,Turnover,126.9
+1043,Sydney Swans,Nick Blakey,Chad Warner,Kick Effective Short,Kick-in,Turnover,125.4
+1043,Sydney Swans,Chad Warner,Justin McInerney,Kick Effective Short,Kick-in,Turnover,110.5
+1046,Sydney Swans,Matt Roberts,Nick Blakey,Kick Effective Short,Kick-in,Stoppage,144.2
+1047,Sydney Swans,Sam Wicks,Jake Lloyd,Handball Effective,Stoppage,Turnover,101.9
+1047,Sydney Swans,Jake Lloyd,Hayden McLean,Kick Ineffective,Stoppage,Turnover,102.8
+1049,Sydney Swans,James Rowbottom,Robbie Fox,Kick Ineffective,Intercept,Turnover,81.2
+1055,Sydney Swans,Hayden McLean,James Jordon,Handball Effective,Intercept,Stoppage,116.7
+1055,Sydney Swans,James Jordon,Harry Cunningham,Handball Effective,Intercept,Stoppage,117.6
+1055,Sydney Swans,Harry Cunningham,Nick Blakey,Kick Backwards,Intercept,Stoppage,131.3
+1055,Sydney Swans,Nick Blakey,Matt Roberts,Kick Backwards,Intercept,Stoppage,133.5
+1055,Sydney Swans,Matt Roberts,Robbie Fox,Kick Effective Long,Intercept,Stoppage,145.6
+1321,Sydney Swans,Logan McDonald,Will Hayward,Kick Ineffective,Stoppage,Score,31.4
+1323,Sydney Swans,Jake Lloyd,Harry Cunningham,Handball Effective,Intercept,Score,82.6
+1323,Sydney Swans,Harry Cunningham,James Rowbottom,Handball Effective,Intercept,Score,86.5
+1323,Sydney Swans,James Rowbottom,Oliver Florent,Handball Effective,Intercept,Score,81.9
+1323,Sydney Swans,Oliver Florent,Justin McInerney,Kick Effective Short,Intercept,Score,87.1
+1323,Sydney Swans,Justin McInerney,Logan McDonald,Kick Effective Short,Intercept,Score,64.8
+1325,Sydney Swans,Harry Cunningham,Jake Lloyd,Handball Effective,Intercept,Turnover,87.2
+1325,Sydney Swans,Jake Lloyd,Lewis Melican,Handball Effective,Intercept,Turnover,92.1
+1325,Sydney Swans,Lewis Melican,Will Hayward,Kick Effective Short,Intercept,Turnover,91.6
+1325,Sydney Swans,Will Hayward,Lewis Melican,Kick Backwards,Intercept,Turnover,80.4
+1327,Sydney Swans,Oliver Florent,Will Hayward,Handball Effective,Intercept,Turnover,88.1
+1327,Sydney Swans,Will Hayward,Isaac Heeney,Handball Effective,Intercept,Turnover,76.6
+1327,Sydney Swans,Isaac Heeney,Logan McDonald,Kick Effective Short,Intercept,Turnover,71
+1327,Sydney Swans,Logan McDonald,Robbie Fox,Kick Effective Short,Intercept,Turnover,53
+1329,Sydney Swans,Tom Papley,Chad Warner,Handball Effective,Stoppage,Score,74.4
+1329,Sydney Swans,Chad Warner,Matt Roberts,Handball Effective,Stoppage,Score,84.2
+1329,Sydney Swans,Logan McDonald,Tom Papley,Handball Effective,Stoppage,Score,46.9
+1329,Sydney Swans,Tom Papley,Robbie Fox,Kick Ineffective,Stoppage,Score,52.8
+1331,Sydney Swans,Lewis Melican,Isaac Heeney,Kick Backwards,Intercept,Turnover,72.5
+1331,Sydney Swans,Isaac Heeney,Chad Warner,Kick Effective Short,Intercept,Turnover,81.2
+1336,Sydney Swans,Justin McInerney,Harry Cunningham,Handball Effective,Intercept,Turnover,125.9
+1336,Sydney Swans,Harry Cunningham,Dane Rampe,Knock On,Intercept,Turnover,120.3
+1336,Sydney Swans,Dane Rampe,Tom McCartin,Handball Effective,Intercept,Turnover,127.9
+1336,Sydney Swans,Tom McCartin,Nick Blakey,Handball Effective,Intercept,Turnover,133.9
+1341,Sydney Swans,James Jordon,Errol Gulden,Kick Effective Short,Stoppage,Score,78.9
+1341,Sydney Swans,Errol Gulden,Isaac Heeney,Kick Effective Long,Stoppage,Score,70.1
+1344,Sydney Swans,Harry Cunningham,Tom McCartin,Kick Effective Short,Intercept,Stoppage,109.6
+1344,Sydney Swans,Tom McCartin,Errol Gulden,Kick Effective Short,Intercept,Stoppage,118.5
+1346,Sydney Swans,Lewis Melican,Nick Blakey,Kick Effective Short,Intercept,Turnover,98.8
+1354,Sydney Swans,Nick Blakey,Will Hayward,Kick Effective Long,Kick-in,Turnover,145.2
+1354,Sydney Swans,Will Hayward,Hayden McLean,Kick Effective Short,Kick-in,Turnover,102.6
+1354,Sydney Swans,Hayden McLean,Tom McCartin,Kick Effective Short,Kick-in,Turnover,100.3
+1354,Sydney Swans,Errol Gulden,James Rowbottom,Kick Backwards,Kick-in,Turnover,92.3
+1354,Sydney Swans,James Rowbottom,Harry Cunningham,Kick Effective Short,Kick-in,Turnover,87.5
+1354,Sydney Swans,Jake Lloyd,Errol Gulden,Handball Effective,Kick-in,Turnover,46.7
+1354,Sydney Swans,Errol Gulden,James Jordon,Handball Effective,Kick-in,Turnover,44
+1354,Sydney Swans,James Jordon,Robbie Fox,Handball Effective,Kick-in,Turnover,35.8
+1354,Sydney Swans,Robbie Fox,James Rowbottom,Handball Effective,Kick-in,Turnover,29.7
+1354,Sydney Swans,James Rowbottom,Chad Warner,Handball Effective,Kick-in,Turnover,40.2
+1363,Sydney Swans,Brodie Grundy,Joel Amartey,Kick Effective Long,Stoppage,Score,67.7
+1366,Sydney Swans,Chad Warner,Matt Roberts,Handball Effective,Stoppage,Turnover,145.8
+1366,Sydney Swans,Matt Roberts,Hayden McLean,Kick Effective Long,Stoppage,Turnover,135.9
+1368,Sydney Swans,James Jordon,James Rowbottom,Handball Effective,Intercept,Turnover,112.2
+1368,Sydney Swans,James Rowbottom,Isaac Heeney,Handball Effective,Intercept,Turnover,116.1
+1370,Sydney Swans,Hayden McLean,Tom Papley,Kick Effective Short,Intercept,Turnover,95.6
+1372,Sydney Swans,Matt Roberts,Jake Lloyd,Kick Effective Short,Intercept,Turnover,126.2
+1377,Sydney Swans,Matt Roberts,Justin McInerney,Handball Effective,Stoppage,Turnover,141.6
+1377,Sydney Swans,Justin McInerney,Isaac Heeney,Handball Effective,Stoppage,Turnover,137.9
+1377,Sydney Swans,Isaac Heeney,Joel Amartey,Kick Effective Short,Stoppage,Turnover,119.5
+1379,Sydney Swans,Jake Lloyd,Braeden Campbell,Handball Effective,Intercept,Turnover,79
+1383,Sydney Swans,Harry Cunningham,Tom McCartin,Handball Effective,Intercept,Turnover,136.6
+1383,Sydney Swans,Tom McCartin,Dane Rampe,Handball Effective,Intercept,Turnover,134
+1383,Sydney Swans,Dane Rampe,Isaac Heeney,Handball Effective,Intercept,Turnover,130.1
+1383,Sydney Swans,Isaac Heeney,Chad Warner,Handball Effective,Intercept,Turnover,118.7
+1383,Sydney Swans,Chad Warner,Robbie Fox,Kick Effective Short,Intercept,Turnover,101.6
+1383,Sydney Swans,Robbie Fox,Chad Warner,Handball Effective,Intercept,Turnover,93.9
+1383,Sydney Swans,Chad Warner,Jake Lloyd,Handball Effective,Intercept,Turnover,99.2
+1385,Sydney Swans,Justin McInerney,Isaac Heeney,Handball Effective,Stoppage,Score,90.6
+1385,Sydney Swans,Will Hayward,James Rowbottom,Knock On,Stoppage,Score,30
+1385,Sydney Swans,James Rowbottom,Tom Papley,Handball Effective,Stoppage,Score,31
+1389,Sydney Swans,Harry Cunningham,Dane Rampe,Handball Effective,Intercept,Turnover,137.5
+1389,Sydney Swans,Dane Rampe,Will Hayward,Kick Effective Short,Intercept,Turnover,148.4
+1389,Sydney Swans,James Rowbottom,Chad Warner,Handball Effective,Intercept,Turnover,73.5
+1389,Sydney Swans,Chad Warner,Tom Papley,Kick Effective Short,Intercept,Turnover,53
+1389,Sydney Swans,Tom Papley,Jake Lloyd,Kick Effective Short,Intercept,Turnover,36.9
+1391,Sydney Swans,Errol Gulden,Will Hayward,Kick Effective Long,Stoppage,Turnover,76.8
+1393,Sydney Swans,Tom McCartin,Oliver Florent,Handball Effective,Intercept,Turnover,122.4
+1393,Sydney Swans,Oliver Florent,Chad Warner,Handball Effective,Intercept,Turnover,119.6
+1395,Sydney Swans,Errol Gulden,Robbie Fox,Handball Effective,Intercept,Turnover,92.4
+1397,Sydney Swans,Logan McDonald,Joel Amartey,Handball Effective,Intercept,Score,52.7
+1398,Sydney Swans,Will Hayward,Justin McInerney,Handball Effective,Intercept,Score,42.6
+1398,Sydney Swans,Justin McInerney,Errol Gulden,Handball Effective,Intercept,Score,52.2
+1398,Sydney Swans,Errol Gulden,James Rowbottom,Kick Effective Short,Intercept,Score,57.7
+1398,Sydney Swans,James Rowbottom,Brodie Grundy,Kick Effective Long,Intercept,Score,48.7
+1398,Sydney Swans,Brodie Grundy,Braeden Campbell,Kick Effective Short,Stoppage,Turnover,83.2
+1398,Sydney Swans,Braeden Campbell,Justin McInerney,Kick Effective Short,Stoppage,Turnover,81.1
+1400,Sydney Swans,Justin McInerney,Robbie Fox,Handball Effective,Intercept,Score,120.3
+1400,Sydney Swans,Robbie Fox,James Jordon,Handball Effective,Intercept,Score,95.3
+1400,Sydney Swans,James Jordon,Isaac Heeney,Kick Effective Long,Intercept,Score,71.8
+1402,Sydney Swans,Isaac Heeney,Harry Cunningham,Handball Effective,Intercept,Score,57.9
+1402,Sydney Swans,Harry Cunningham,Chad Warner,Handball Effective,Intercept,Score,65.2
+1402,Sydney Swans,Chad Warner,Logan McDonald,Kick Ineffective,Intercept,Score,57.5
+1405,Sydney Swans,Lewis Melican,Harry Cunningham,Kick Backwards,Intercept,Turnover,145.9
+1405,Sydney Swans,Harry Cunningham,Braeden Campbell,Kick Effective Short,Intercept,Turnover,153.8
+1407,Sydney Swans,Dane Rampe,James Jordon,Handball Effective,Intercept,Score,96.5
+1407,Sydney Swans,James Jordon,Chad Warner,Handball Effective,Intercept,Score,91.8
+1407,Sydney Swans,Chad Warner,Isaac Heeney,Handball Effective,Intercept,Score,81.2
+1407,Sydney Swans,Isaac Heeney,Braeden Campbell,Handball Effective,Intercept,Score,76.5
+1407,Sydney Swans,Braeden Campbell,Logan McDonald,Kick Effective Long,Intercept,Score,58.9
+1408,Sydney Swans,Isaac Heeney,Justin McInerney,Handball Effective,Stoppage,Pre-Clearance Turnover,82.4
+1408,Sydney Swans,Justin McInerney,Errol Gulden,Knock On,Stoppage,Pre-Clearance Turnover,74.4
+1408,Sydney Swans,Dane Rampe,James Jordon,Handball Effective,Intercept,Score,111
+1408,Sydney Swans,James Jordon,Dane Rampe,Handball Effective,Intercept,Score,120.8
+1408,Sydney Swans,Dane Rampe,Oliver Florent,Handball Effective,Intercept,Score,131
+1408,Sydney Swans,Oliver Florent,Isaac Heeney,Kick Effective Short,Intercept,Score,133.4
+1408,Sydney Swans,Isaac Heeney,Braeden Campbell,Kick Effective Short,Intercept,Score,112
+1408,Sydney Swans,Braeden Campbell,Errol Gulden,Handball Effective,Intercept,Score,87.8
+1408,Sydney Swans,Errol Gulden,Isaac Heeney,Handball Effective,Intercept,Score,84.7
+1408,Sydney Swans,Isaac Heeney,Chad Warner,Kick Effective Long,Intercept,Score,72
+1412,Sydney Swans,Lewis Melican,Harry Cunningham,Kick Backwards,Intercept,Stoppage,152.7
+1412,Sydney Swans,Harry Cunningham,Nick Blakey,Kick Effective Short,Intercept,Stoppage,154.9
+1412,Sydney Swans,Nick Blakey,Matt Roberts,Kick Effective Long,Intercept,Stoppage,147.7
+1412,Sydney Swans,Matt Roberts,Braeden Campbell,Handball Effective,Intercept,Stoppage,107.4
+1414,Sydney Swans,Harry Cunningham,Tom McCartin,Handball Effective,Intercept,Stoppage,82.1
+1415,Sydney Swans,Chad Warner,Errol Gulden,Kick Effective Short,Stoppage,Turnover,75.3
+1417,Sydney Swans,Nick Blakey,Joel Amartey,Kick Effective Long,Kick-in,Turnover,144.4
+1419,Sydney Swans,Isaac Heeney,Matt Roberts,Handball Effective,Stoppage,Stoppage,97.8
+1419,Sydney Swans,Matt Roberts,Dane Rampe,Handball Effective,Stoppage,Stoppage,103.7
+1419,Sydney Swans,Dane Rampe,James Jordon,Kick Effective Short,Stoppage,Stoppage,119.1
+1421,Sydney Swans,James Jordon,Matt Roberts,Handball Ineffective,Intercept,Turnover,76.2
+1421,Sydney Swans,Matt Roberts,Oliver Florent,Handball Ineffective,Intercept,Turnover,70.7
+1424,Sydney Swans,Lewis Melican,Oliver Florent,Handball Effective,Intercept,Stoppage,138.8
+1424,Sydney Swans,Oliver Florent,Dane Rampe,Handball Effective,Intercept,Stoppage,134.7
+1424,Sydney Swans,Dane Rampe,Joel Amartey,Kick Effective Long,Intercept,Stoppage,139.2
+1424,Sydney Swans,Joel Amartey,Hayden McLean,Kick Ineffective,Intercept,Stoppage,99.7
+1432,Sydney Swans,Tom McCartin,James Jordon,Kick Effective Short,Intercept,Turnover,94.9
+1432,Sydney Swans,James Jordon,Nick Blakey,Kick Effective Short,Intercept,Turnover,93
+1432,Sydney Swans,Nick Blakey,Tom Papley,Kick Effective Long,Intercept,Turnover,83.3
+1435,Sydney Swans,James Rowbottom,Nick Blakey,Kick Effective Short,Stoppage,Score,81.4
+1435,Sydney Swans,Nick Blakey,Errol Gulden,Kick Effective Short,Stoppage,Score,68.4
+1435,Sydney Swans,Errol Gulden,Joel Amartey,Kick Effective Long,Stoppage,Score,60.1
+1442,Sydney Swans,Dane Rampe,Jake Lloyd,Out on Full Kick In,Intercept,Turnover,154.8
+1442,Sydney Swans,Jake Lloyd,Nick Blakey,Handball Effective,Intercept,Turnover,149.8
+1442,Sydney Swans,Logan McDonald,Tom Papley,Handball Effective,Intercept,Turnover,119.8
+1442,Sydney Swans,Tom Papley,Logan McDonald,Handball Effective,Intercept,Turnover,110
+1442,Sydney Swans,Logan McDonald,Tom Papley,Handball Effective,Intercept,Turnover,119.8
+1442,Sydney Swans,Tom Papley,Chad Warner,Knock On,Intercept,Turnover,105.3
+1442,Sydney Swans,Isaac Heeney,Will Hayward,Handball Effective,Intercept,Turnover,58.9
+1444,Sydney Swans,Justin McInerney,Harry Cunningham,Handball Effective,Intercept,Stoppage,95.8
+1444,Sydney Swans,Harry Cunningham,Dane Rampe,Handball Effective,Intercept,Stoppage,104.3
+1444,Sydney Swans,Dane Rampe,Harry Cunningham,Handball Effective,Intercept,Stoppage,112.5
+1444,Sydney Swans,Harry Cunningham,Oliver Florent,Handball Effective,Intercept,Stoppage,105.5
+1445,Sydney Swans,Brodie Grundy,Justin McInerney,Handball Effective,Stoppage,Stoppage,104.1
+1445,Sydney Swans,Justin McInerney,Tom Papley,Knock On,Stoppage,Stoppage,104.8
+1449,Sydney Swans,Oliver Florent,Harry Cunningham,Handball Effective,Intercept,Turnover,104.5
+1455,Sydney Swans,Joel Amartey,Isaac Heeney,Handball Effective,Intercept,Turnover,108.8
+1455,Sydney Swans,Isaac Heeney,Errol Gulden,Handball Effective,Intercept,Turnover,113.2
+1455,Sydney Swans,Errol Gulden,Tom Papley,Knock On,Intercept,Turnover,101.2
+1459,Sydney Swans,Logan McDonald,Justin McInerney,Kick Effective Long,Intercept,Score,68.2
+1460,Sydney Swans,Chad Warner,Will Hayward,Kick Ineffective,Stoppage,Score,83.1
+1460,Sydney Swans,Robbie Fox,Errol Gulden,Handball Effective,Stoppage,Score,25.8
+1462,Sydney Swans,James Rowbottom,Chad Warner,Handball Effective,Intercept,Turnover,92.7
+1462,Sydney Swans,Chad Warner,Hayden McLean,Handball Effective,Intercept,Turnover,93.5
+1464,Sydney Swans,Chad Warner,Hayden McLean,Handball Effective,Intercept,Score,80.3
+1464,Sydney Swans,Hayden McLean,Errol Gulden,Handball Effective,Intercept,Score,71.3
+1464,Sydney Swans,Errol Gulden,Joel Amartey,Kick Effective Short,Intercept,Score,64.8
+1466,Sydney Swans,Oliver Florent,James Jordon,Handball Effective,Intercept,Turnover,128.5
+1466,Sydney Swans,James Jordon,Chad Warner,Handball Effective,Intercept,Turnover,124.5
+1466,Sydney Swans,Chad Warner,Dane Rampe,Kick Backwards,Intercept,Turnover,120.3
+1466,Sydney Swans,Logan McDonald,Oliver Florent,Kick Effective Short,Intercept,Turnover,105.1
+1466,Sydney Swans,Oliver Florent,Robbie Fox,Kick Effective Long,Intercept,Turnover,94.8
+1470,Sydney Swans,Oliver Florent,Hayden McLean,Kick Effective Long,Intercept,Turnover,127.7
+1470,Sydney Swans,Hayden McLean,Jake Lloyd,Handball Effective,Intercept,Turnover,115
+1470,Sydney Swans,Jake Lloyd,James Jordon,Handball Effective,Intercept,Turnover,119.7
+1470,Sydney Swans,James Jordon,Justin McInerney,Kick Ineffective,Intercept,Turnover,102.7
+1470,Sydney Swans,Justin McInerney,Robbie Fox,Handball Effective,Intercept,Turnover,68
+1472,Sydney Swans,Nick Blakey,Logan McDonald,Kick Effective Short,Intercept,Score,38.5
+1476,Sydney Swans,Tom McCartin,Dane Rampe,Kick Effective Short,Intercept,Score,138.2
+1478,Sydney Swans,Justin McInerney,Errol Gulden,Handball Effective,Intercept,Score,111.9
+1478,Sydney Swans,Errol Gulden,Isaac Heeney,Handball Effective,Intercept,Score,104.1
+1478,Sydney Swans,Isaac Heeney,Hayden McLean,Handball Effective,Intercept,Score,96.9
+1478,Sydney Swans,Hayden McLean,Logan McDonald,Kick Effective Short,Intercept,Score,93.3
+1478,Sydney Swans,Logan McDonald,Jake Lloyd,Kick Backwards,Intercept,Score,86.6
+1478,Sydney Swans,Jake Lloyd,James Jordon,Kick Effective Short,Intercept,Score,72.9
+1478,Sydney Swans,James Jordon,Harry Cunningham,Kick Effective Short,Intercept,Score,66.5
+1478,Sydney Swans,Harry Cunningham,Isaac Heeney,Kick Effective Short,Intercept,Score,59.3
+1482,Sydney Swans,Matt Roberts,Hayden McLean,Kick Effective Long,Kick-in,Stoppage,142.8
+1482,Sydney Swans,Hayden McLean,Chad Warner,Handball Effective,Kick-in,Stoppage,113.5
+1482,Sydney Swans,Chad Warner,Errol Gulden,Kick Backwards,Kick-in,Stoppage,97.6
+1482,Sydney Swans,Errol Gulden,Justin McInerney,Handball Effective,Kick-in,Stoppage,94.1
+1482,Sydney Swans,Justin McInerney,Errol Gulden,Handball Effective,Kick-in,Stoppage,87.4
+1483,Sydney Swans,Isaac Heeney,Justin McInerney,Handball Effective,Stoppage,Pre-Clearance Turnover,57.1
+1485,Sydney Swans,Chad Warner,Errol Gulden,Handball Effective,Intercept,Score,59.4
+1485,Sydney Swans,Errol Gulden,Logan McDonald,Kick Effective Long,Intercept,Score,52.9
+1492,Sydney Swans,Nick Blakey,Matt Roberts,Kick Effective Long,Kick-in,Turnover,144.5
+1494,Sydney Swans,James Rowbottom,Isaac Heeney,Handball Effective,Intercept,Turnover,70.9
+1494,Sydney Swans,Isaac Heeney,Errol Gulden,Handball Effective,Intercept,Turnover,71.7
+1496,Sydney Swans,Jake Lloyd,James Jordon,Handball Effective,Intercept,Score,58.6
+1496,Sydney Swans,James Jordon,Lewis Melican,Handball Effective,Intercept,Score,53
+1496,Sydney Swans,Lewis Melican,Chad Warner,Kick Effective Short,Intercept,Score,61.9
+1500,Sydney Swans,Isaac Heeney,Oliver Florent,Handball Ineffective,Intercept,Stoppage,121.7
+1502,Sydney Swans,James Rowbottom,Matt Roberts,Handball Effective,Stoppage,End of Quarter,126.9
+1507,Sydney Swans,Oliver Florent,Errol Gulden,Handball Effective,Kick-in,Stoppage,138.5
+1508,Sydney Swans,Chad Warner,Tom Papley,Handball Effective,Stoppage,Score,119.4
+1508,Sydney Swans,Tom Papley,Jake Lloyd,Kick Effective Short,Stoppage,Score,112
+1508,Sydney Swans,Jake Lloyd,Harry Cunningham,Kick Backwards,Stoppage,Score,108
+1508,Sydney Swans,Harry Cunningham,Jake Lloyd,Kick Effective Short,Stoppage,Score,124.4
+1508,Sydney Swans,Jake Lloyd,Nick Blakey,Kick Effective Short,Stoppage,Score,109.6
+1508,Sydney Swans,Nick Blakey,Errol Gulden,Kick Effective Long,Stoppage,Score,101.9
+1508,Sydney Swans,Errol Gulden,Justin McInerney,Kick Effective Short,Stoppage,Score,85.1
+1508,Sydney Swans,Justin McInerney,Tom Papley,Kick Effective Short,Stoppage,Score,64.1
+1513,Sydney Swans,Nick Blakey,Matt Roberts,Kick Effective Short,Kick-in,Turnover,155.8
+1515,Sydney Swans,Nick Blakey,Justin McInerney,Handball Effective,Intercept,Score,134.1
+1515,Sydney Swans,Justin McInerney,Chad Warner,Kick Effective Short,Intercept,Score,138.4
+1515,Sydney Swans,Chad Warner,Tom Papley,Kick Effective Short,Intercept,Score,124.3
+1515,Sydney Swans,Tom Papley,Matt Roberts,Kick Effective Short,Intercept,Score,112.9
+1515,Sydney Swans,Matt Roberts,Errol Gulden,Kick Effective Short,Intercept,Score,121.5
+1515,Sydney Swans,Errol Gulden,James Jordon,Kick Effective Short,Intercept,Score,118.2
+1515,Sydney Swans,James Jordon,Hayden McLean,Kick Effective Long,Intercept,Score,84
+1517,Sydney Swans,Oliver Florent,James Rowbottom,Handball Effective,Intercept,Score,126.5
+1517,Sydney Swans,James Rowbottom,James Jordon,Handball Effective,Intercept,Score,117.8
+1517,Sydney Swans,James Jordon,Tom Papley,Handball Effective,Intercept,Score,112.5
+1517,Sydney Swans,Tom Papley,Matt Roberts,Handball Effective,Intercept,Score,91.1
+1517,Sydney Swans,Matt Roberts,Will Hayward,Handball Effective,Intercept,Score,87.3
+1517,Sydney Swans,Will Hayward,Errol Gulden,Handball Effective,Intercept,Score,91.4
+1517,Sydney Swans,Errol Gulden,Isaac Heeney,Kick Effective Short,Intercept,Score,103.4
+1517,Sydney Swans,Isaac Heeney,Sam Wicks,Kick Effective Long,Intercept,Score,70.2
+1521,Sydney Swans,Nick Blakey,Errol Gulden,Kick Effective Short,Kick-in,Turnover,153
+1521,Sydney Swans,Errol Gulden,Hayden McLean,Kick Effective Long,Kick-in,Turnover,149.4
+1521,Sydney Swans,Hayden McLean,Errol Gulden,Handball Effective,Kick-in,Turnover,108.5
+1523,Sydney Swans,Robbie Fox,Nick Blakey,Kick Effective Short,Intercept,Turnover,95.9
+1525,Sydney Swans,Oliver Florent,Errol Gulden,Kick Effective Short,Intercept,Turnover,96
+1525,Sydney Swans,Errol Gulden,Will Hayward,Kick Effective Short,Intercept,Turnover,111.1
+1528,Sydney Swans,Hayden McLean,Isaac Heeney,Kick Effective Long,Stoppage,Score,59.7
+1528,Sydney Swans,Isaac Heeney,Brodie Grundy,Kick Effective Short,Stoppage,Score,32.6
+1530,Sydney Swans,Brodie Grundy,Tom Papley,Kick Effective Short,Intercept,Score,71.7
+1530,Sydney Swans,Tom Papley,Logan McDonald,Kick Effective Short,Intercept,Score,61.4
+1532,Sydney Swans,Brodie Grundy,Matt Roberts,Handball Effective,Intercept,Turnover,132
+1534,Sydney Swans,Isaac Heeney,Justin McInerney,Handball Effective,Intercept,Stoppage,125.9
+1534,Sydney Swans,Justin McInerney,Sam Wicks,Handball Ineffective,Intercept,Stoppage,126.7
+1537,Sydney Swans,Chad Warner,Robbie Fox,Handball Effective,Stoppage,Stoppage,142.5
+1537,Sydney Swans,Robbie Fox,Errol Gulden,Handball Effective,Stoppage,Stoppage,135.3
+1537,Sydney Swans,Errol Gulden,Tom McCartin,Kick Effective Short,Stoppage,Stoppage,142.2
+1542,Sydney Swans,Oliver Florent,Harry Cunningham,Kick Effective Short,Kick-in,Turnover,154.9
+1542,Sydney Swans,Harry Cunningham,Jake Lloyd,Kick Effective Short,Kick-in,Turnover,153.6
+1542,Sydney Swans,Jake Lloyd,Oliver Florent,Kick Effective Short,Kick-in,Turnover,155.2
+1542,Sydney Swans,Oliver Florent,Tom McCartin,Kick Effective Short,Kick-in,Turnover,149.2
+1546,Sydney Swans,Justin McInerney,Oliver Florent,Handball Effective,Stoppage,Turnover,136.6
+1546,Sydney Swans,Oliver Florent,Tom Papley,Kick Effective Long,Stoppage,Turnover,137.1
+1546,Sydney Swans,Tom Papley,Matt Roberts,Kick Effective Short,Stoppage,Turnover,136.6
+1546,Sydney Swans,Matt Roberts,Jake Lloyd,Kick Effective Short,Stoppage,Turnover,126.7
+1549,Sydney Swans,Hayden McLean,James Jordon,Kick Effective Short,Stoppage,Turnover,92.7
+1549,Sydney Swans,James Jordon,Braeden Campbell,Kick Effective Long,Stoppage,Turnover,90.1
+1549,Sydney Swans,Braeden Campbell,Hayden McLean,Kick Effective Long,Stoppage,Turnover,64.3
+1549,Sydney Swans,Hayden McLean,Errol Gulden,Handball Effective,Stoppage,Turnover,18.9
+1549,Sydney Swans,Errol Gulden,Isaac Heeney,Handball Effective,Stoppage,Turnover,24.3
+1551,Sydney Swans,James Jordon,Errol Gulden,Handball Effective,Intercept,Turnover,111.5
+1551,Sydney Swans,Errol Gulden,James Jordon,Handball Effective,Intercept,Turnover,96
